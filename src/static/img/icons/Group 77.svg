@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="Group_77" data-name="Group 77" transform="translate(-1770 -980)">
+    <path id="Path_103" data-name="Path 103" class="cls-1" d="M1781.39,998.333h-.05a.839.839,0,0,1-.77-.666l-1.28-6.306a.835.835,0,0,0-.65-.651l-6.31-1.282a.823.823,0,0,1-.66-.765.834.834,0,0,1,.57-.841l13.33-4.444a.83.83,0,0,1,1.05,1.053l-4.44,13.333A.825.825,0,0,1,1781.39,998.333Z"/>
+    <image id="Rectangle_68" data-name="Rectangle 68" width="20" height="20" transform="translate(1770 980)" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAB1SURBVDhPzZPRCoAwCEVd///PhrGFhWv3mlAHhi/j6HWsqapUsvVaxm+Etid/ThhhKLizEkISTySkJR4vzEparwdDmJomgnkUiNlPQSe+xDVmE9rFcSiQyJT0zQ7DRuWPggrh2NkJpw0+i+x5jM8ITbTYpcgOlgYXHH0fEA0AAAAASUVORK5CYII="/>
+  </g>
+</svg>

@@ -1,0 +1,27 @@
+<svg id="Animated_Search" data-name="Animated Search" xmlns="http://www.w3.org/2000/svg" width="20.815" height="25.002" viewBox="0 0 20.815 25.002">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        stroke-linecap: round;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Rectangle_1523" data-name="Rectangle 1523" class="cls-1">
+    <rect class="cls-3" width="19.484" height="20.42" rx="9.742"/>
+    <rect class="cls-4" x="1" y="1" width="17.484" height="18.42" rx="8.742"/>
+  </g>
+  <line id="Line_10" data-name="Line 10" class="cls-2" x1="0.097" y2="5.921" transform="matrix(0.766, -0.643, 0.643, 0.766, 15.503, 19.035)"/>
+</svg>

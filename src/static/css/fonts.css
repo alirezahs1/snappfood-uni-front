@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+@font-face {
+  font-family: "TT Norms";
+  font-weight: bold;
+  font-style: normal;
+  src: url("../fonts/TTNorms-Bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "TT Norms";
+  font-weight: normal;
+  src: url("../fonts/TTNorms-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "TT Norms";
+  font-weight: lighter;
+  src: url("../fonts/TTNorms-Light.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "TT Norms";
+  font-weight: normal;
+  font-style: italic;
+  src: url("../fonts/TTNorms-Italic.otf") format("opentype");
+}
+/*# sourceMappingURL=fonts.css.map */
